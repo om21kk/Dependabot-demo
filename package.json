@@ -1,0 +1,22 @@
+{
+  "name": "dependabot-test-project",
+  "version": "1.0.0",
+  "description": "Test project for Dependabot vulnerability detection",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\""
+  },
+  "dependencies": {
+    "lodash": "4.17.4",
+    "express": "4.16.0",
+    "moment": "2.19.3",
+    "axios": "0.18.0"
+  },
+  "devDependencies": {
+    "webpack": "4.29.0"
+  },
+  "keywords": ["dependabot", "security", "test"],
+  "author": "Test User",
+  "license": "MIT"
+}
